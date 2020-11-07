@@ -2,7 +2,7 @@
 
 ### I'm DataXujing
 
-- 🎓 QingDao University
+- 🎓 Qingdao University
 - 📦 硕士研究生 & AI图像算法工程师
 - 📖 NLP教程：<https://dataxujing.github.io/NLP-paper/#/>
 - 📖 CV教程： <https://dataxujing.github.io/CNN-paper2/#/>
