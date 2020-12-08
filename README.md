@@ -7,6 +7,10 @@
 - 📖 NLP教程：<https://dataxujing.github.io/NLP-paper/#/>
 - 📖 CV教程： <https://dataxujing.github.io/CNN-paper2/#/>
 - :fire: YOLO v5 tutorial: <https://github.com/DataXujing/YOLO-v5>
+- :fire:ScaledYOLOv4 tutorial: <https://github.com/DataXujing/ScaledYOLOv4>
+
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=DataXujing&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+
+
