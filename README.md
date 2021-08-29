@@ -9,6 +9,7 @@
 - :fire: YOLO v5 tutorial: <https://github.com/DataXujing/YOLO-v5>
 - :fire:ScaledYOLOv4 tutorial: <https://github.com/DataXujing/ScaledYOLOv4>
 - :fire:YOLOX tutorial: <https://github.com/DataXujing/YOLOX->
+- :fire:YOLOR tutorial: <https://github.com/DataXujing/YOLOR->
 - 📖 Kivy教程： <https://dataxujing.github.io/create_apps_in_kivy/>
 - 📖 libtorch教程： <https://dataxujing.github.io/libtorch_tutorials/>
 
