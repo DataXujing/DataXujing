@@ -12,8 +12,7 @@
 - :fire:YOLOR tutorial: <https://github.com/DataXujing/YOLOR->
 - 📖 Kivy教程： <https://dataxujing.github.io/create_apps_in_kivy/>
 - 📖 libtorch教程： <https://dataxujing.github.io/libtorch_tutorials/>
-- :fire：TensorRT+DeepSort: <https://github.com/DataXujing/tensorrt_deeposrt_yolov5>
-
+- :fire: TensorRT+DeepSort: <https://github.com/DataXujing/tensorrt_deeposrt_yolov5>
 
 <img src="https://github-profile-trophy.vercel.app/?username=DataXujing&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
