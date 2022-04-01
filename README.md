@@ -15,6 +15,7 @@
 - :fire: TensorRT+DeepSort: <https://github.com/DataXujing/tensorrt_deeposrt_yolov5>
 - :fire: QT+NCNN: <https://github.com/DataXujing/Qt_NCNN_NanoDet>
 - :fire: Lanenet tensorrt: <https://github.com/DataXujing/-lanenet-tensorrt>
+- :fire: Bert tensorrt: <https://github.com/DataXujing/Bert_TensorRT>
 
 <img src="https://github-profile-trophy.vercel.app/?username=DataXujing&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
