@@ -17,6 +17,7 @@
 - :fire: Lanenet tensorrt: <https://github.com/DataXujing/-lanenet-tensorrt>
 - :fire: Bert tensorrt: <https://github.com/DataXujing/Bert_TensorRT>
 - :fire: YOLACT TensorRT API实现: <https://github.com/DataXujing/yolact_tensorrt_api>
+- :fire: YOLOv6 tutorial: <https://github.com/DataXujing/YOLOv6>
 
 <img src="https://github-profile-trophy.vercel.app/?username=DataXujing&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
