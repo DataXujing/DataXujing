@@ -89,6 +89,6 @@
 
 ### 累积浏览量统计 <img src="https://avatars0.githubusercontent.com/u/1680273?s=460&u=4471b74deb9973096418a93960c664c5ea3bd159&v=4" width="50">
 
-<p align="center" font-size=20>
-  2022-07-07 24:00开始,累积<img src="https://profile-counter.glitch.me/DataXujing/count.svg" />次访问！
+<p align="center" >
+  <h4> 2022-07-07 24:00开始,累积<img src="https://profile-counter.glitch.me/DataXujing/count.svg" />次访问！</h4>
 </p>
