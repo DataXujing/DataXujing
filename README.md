@@ -19,7 +19,7 @@
 - :fire: YOLACT TensorRT API实现: <https://github.com/DataXujing/yolact_tensorrt_api>
 - :fire: YOLOv6 tutorial: <https://github.com/DataXujing/YOLOv6>
 
-<-- <img src="https://github-profile-trophy.vercel.app/?username=DataXujing&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" /> -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=DataXujing&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" /> -->
 
 ### 我的技术栈
 
