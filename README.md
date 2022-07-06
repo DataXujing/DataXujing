@@ -22,3 +22,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=DataXujing&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
 
+## 累积浏览量统计（2022-07-07- ） <img src="https://avatars0.githubusercontent.com/u/1680273?s=460&u=4471b74deb9973096418a93960c664c5ea3bd159&v=4" width="50">
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/WangRongsheng/count.svg" />
+</p>
