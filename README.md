@@ -35,7 +35,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
-<img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/paddlepaddle.png](https://raw.githubusercontent.com/PaddlePaddle/Paddle/develop/doc/imgs/logo.png" alt="paddle" height="70"  />   
+<img style="margin: 10px" src="https://raw.githubusercontent.com/PaddlePaddle/Paddle/develop/doc/imgs/logo.png" alt="paddle" height="70"  />   
   
 </div>
 
