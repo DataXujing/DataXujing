@@ -36,6 +36,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/PaddlePaddle/Paddle/develop/doc/imgs/logo.png" alt="paddle" height="70"  />   
+<img style="margin: 10px" src="https://docs.nvidia.com/deeplearning/tensorrt/quick-start-guide/graphics/dl-cycle.png" alt="trt" height="70" />
+<img style="margin: 10px" src="https://github.com/onnx/onnx/raw/main/docs/ONNX_logo_main.png" alt="onnx" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/Tencent/ncnn/master/images/256-ncnn.png"  alt="ncnn" height="50" />
+<img style="margin: 10px" src="https://github.com/alibaba/MNN/raw/master/doc/banner.png" alt="mnn" height="50" />
+<img style="margin: 10px" src="https://github.com/openvinotoolkit/openvino/raw/master/docs/img/openvino-logo-purple-black.png" alt="openvini" height="50" />
   
 </div>
 
