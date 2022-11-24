@@ -20,6 +20,7 @@
 - :fire: YOLOv6 tutorial: <https://github.com/DataXujing/YOLOv6>
 - :fire: ncnn_android_yolov6: <https://github.com/DataXujing/ncnn_android_yolov6>
 - :fire: YOLOv7 tutorial: <https://github.com/DataXujing/YOLOv7>
+- :fire: Mask RCNN TensorRT: <https://github.com/DataXujing/Mask-RCNN-TensorRT>
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=DataXujing&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" /> -->
 
