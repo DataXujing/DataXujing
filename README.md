@@ -6,7 +6,6 @@
 - 📦 硕士研究生 & AI图像算法工程师
 - 📖 NLP教程：<https://dataxujing.github.io/NLP-paper/#/>
 - 📖 CV教程： <https://dataxujing.github.io/CNN-paper2/#/>
-
 - 📖 Kivy教程： <https://dataxujing.github.io/create_apps_in_kivy/>
 - 📖 libtorch教程： <https://dataxujing.github.io/libtorch_tutorials/>
 - :fire: TensorRT+DeepSort: <https://github.com/DataXujing/tensorrt_deeposrt_yolov5>
