@@ -6,10 +6,7 @@
 - 📦 硕士研究生 & AI图像算法工程师
 - 📖 NLP教程：<https://dataxujing.github.io/NLP-paper/#/>
 - 📖 CV教程： <https://dataxujing.github.io/CNN-paper2/#/>
-- :fire: YOLO v5 tutorial: <https://github.com/DataXujing/YOLO-v5>
-- :fire:ScaledYOLOv4 tutorial: <https://github.com/DataXujing/ScaledYOLOv4>
-- :fire:YOLOX tutorial: <https://github.com/DataXujing/YOLOX->
-- :fire:YOLOR tutorial: <https://github.com/DataXujing/YOLOR->
+
 - 📖 Kivy教程： <https://dataxujing.github.io/create_apps_in_kivy/>
 - 📖 libtorch教程： <https://dataxujing.github.io/libtorch_tutorials/>
 - :fire: TensorRT+DeepSort: <https://github.com/DataXujing/tensorrt_deeposrt_yolov5>
@@ -17,11 +14,16 @@
 - :fire: Lanenet tensorrt: <https://github.com/DataXujing/-lanenet-tensorrt>
 - :fire: Bert tensorrt: <https://github.com/DataXujing/Bert_TensorRT>
 - :fire: YOLACT TensorRT API实现: <https://github.com/DataXujing/yolact_tensorrt_api>
-- :fire: YOLOv6 tutorial: <https://github.com/DataXujing/YOLOv6>
 - :fire: ncnn_android_yolov6: <https://github.com/DataXujing/ncnn_android_yolov6>
-- :fire: YOLOv7 tutorial: <https://github.com/DataXujing/YOLOv7>
 - :fire: Mask RCNN TensorRT: <https://github.com/DataXujing/Mask-RCNN-TensorRT>
 - :fire: 智能防疫四足机器狗SpotM2: <https://github.com/DataXujing/SpotM2-Jetson>
+------
+- :fire: YOLO v5 tutorial: <https://github.com/DataXujing/YOLO-v5>
+- :fire:ScaledYOLOv4 tutorial: <https://github.com/DataXujing/ScaledYOLOv4>
+- :fire:YOLOX tutorial: <https://github.com/DataXujing/YOLOX->
+- :fire:YOLOR tutorial: <https://github.com/DataXujing/YOLOR->
+- :fire: YOLOv6 tutorial: <https://github.com/DataXujing/YOLOv6>
+- :fire: YOLOv7 tutorial: <https://github.com/DataXujing/YOLOv7>
 - :fire: YOLOv8 tutorial: <https://github.com/DataXujing/YOLOv8>
 
 
