@@ -27,6 +27,9 @@
 - :fire: YOLOv7 tutorial: <https://github.com/DataXujing/YOLOv7>
 - :fire: YOLOv8 tutorial: <https://github.com/DataXujing/YOLOv8>
 
+------
+
+- 📖 ASR教程（TODO）： <https://dataxujing.github.io/CNN-paper2/#/>
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=DataXujing&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" /> -->
 
