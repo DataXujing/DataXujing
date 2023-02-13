@@ -17,7 +17,7 @@
 - :fire: ncnn_android_yolov8: <https://github.com/DataXujing/ncnn_android_yolov8>
 - :fire: Mask RCNN TensorRT: <https://github.com/DataXujing/Mask-RCNN-TensorRT>
 - :fire: 智能防疫四足机器狗SpotM2: <https://github.com/DataXujing/SpotM2-Jetson>
-- 
+ 
 ------
 - :fire: YOLO v5 tutorial: <https://github.com/DataXujing/YOLO-v5>
 - :fire:ScaledYOLOv4 tutorial: <https://github.com/DataXujing/ScaledYOLOv4>
