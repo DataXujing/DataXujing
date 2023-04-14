@@ -30,7 +30,7 @@
 
 ------
 
-- 📖 ASR教程（开启第二阶段工具介绍及测试）： <https://dataxujing.github.io/ASR-paper/#/>
+- 📖 ASR教程（就差介绍kaldi就截稿了）： <https://dataxujing.github.io/ASR-paper/#/>
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=DataXujing&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" /> -->
 
