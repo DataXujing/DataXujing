@@ -30,7 +30,7 @@
 
 ------
 
-- 📖 ASR教程（最后部分已经完成99%）： <https://dataxujing.github.io/ASR-paper/#/>
+- 📖 ASR教程（收工）： <https://dataxujing.github.io/ASR-paper/#/>
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=DataXujing&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" /> -->
 
