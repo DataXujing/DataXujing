@@ -8,6 +8,7 @@
 - 📖 CV教程： <https://dataxujing.github.io/CNN-paper2/#/>
 - 📖 Kivy教程： <https://dataxujing.github.io/create_apps_in_kivy/>
 - 📖 libtorch教程： <https://dataxujing.github.io/libtorch_tutorials/>
+- 📖 R语言面向对象的编程电子书（2018）：<https://dataxujing.github.io/R_oop/>
 - :fire: TensorRT+DeepSort: <https://github.com/DataXujing/tensorrt_deeposrt_yolov5>
 - :fire: QT+NCNN: <https://github.com/DataXujing/Qt_NCNN_NanoDet>
 - :fire: Lanenet tensorrt: <https://github.com/DataXujing/-lanenet-tensorrt>
