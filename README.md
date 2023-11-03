@@ -32,7 +32,8 @@
 ------
 
 - 📖 ASR教程（收工）： <https://dataxujing.github.io/ASR-paper/#/>
-- 📖 AIGC+LLMs教程（继续搞 langchain）： <https://dataxujing.github.io/AIGC-paper/#/>
+- 📖 AIGC+LLMs教程（搞定）： <https://dataxujing.github.io/AIGC-paper/#/>
+- 📖 TTS教程（正在进行）：<dataxujing.github.io/TTS-paper/#/>
 
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=DataXujing&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" /> -->
