@@ -35,6 +35,9 @@
 - 📖 AIGC+LLMs教程（搞定）： <https://dataxujing.github.io/AIGC-paper/#/>
 - 📖 TTS教程（正在进行）：<https://dataxujing.github.io/TTS-paper/#/>
 
+------
+- 部分比赛获奖开源项目请参考： <https://github.com/TRT2022>
+
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=DataXujing&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" /> -->
 
