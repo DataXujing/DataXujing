@@ -19,6 +19,7 @@
 - :fire: Mask RCNN TensorRT: <https://github.com/DataXujing/Mask-RCNN-TensorRT>
 - :fire: 智能防疫四足机器狗SpotM2: <https://github.com/DataXujing/SpotM2-Jetson>
 - :fire: rase-weather-chit:<https://github.com/DataXujing/rasa-weather-chit>
+- :fire: TensorRT-LLM-ChatGLM3: <https://github.com/DataXujing/TensorRT-LLM-ChatGLM3>
  
 ------
 - :fire: YOLO v5 tutorial: <https://github.com/DataXujing/YOLO-v5>
