@@ -30,6 +30,8 @@
 - :fire: YOLOv7 tutorial: <https://github.com/DataXujing/YOLOv7>
 - :fire: YOLOv8 tutorial: <https://github.com/DataXujing/YOLOv8>
 
+**新闻：** 听说YOLOv9来了：https://github.com/WongKinYiu/yolov9
+
 ------
 
 - 📖 ASR教程（收工）： <https://dataxujing.github.io/ASR-paper/#/>
@@ -115,7 +117,6 @@
 <br/> 
 
 
-**新闻：** 听说YOLOv9来了：https://github.com/WongKinYiu/yolov9
 
 ### 累积浏览量统计 <img src="https://avatars0.githubusercontent.com/u/1680273?s=460&u=4471b74deb9973096418a93960c664c5ea3bd159&v=4" width="50">
 
