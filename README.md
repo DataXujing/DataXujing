@@ -29,7 +29,8 @@
 - :fire: YOLOv6 tutorial: <https://github.com/DataXujing/YOLOv6>
 - :fire: YOLOv7 tutorial: <https://github.com/DataXujing/YOLOv7>
 - :fire: YOLOv8 tutorial: <https://github.com/DataXujing/YOLOv8>
-
+- :fire: YOLOv9 tutorial: <https://github.com/DataXujing/YOLOv9>
+- 
 **新闻：** 听说YOLOv9来了：https://github.com/WongKinYiu/yolov9
 
 ------
