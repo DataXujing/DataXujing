@@ -31,7 +31,7 @@
 - :fire: YOLOv8 tutorial: <https://github.com/DataXujing/YOLOv8>
 - :fire: YOLOv9 tutorial: <https://github.com/DataXujing/YOLOv9>
 - 
-**新闻：** 听说YOLOv9来了：https://github.com/WongKinYiu/yolov9
+**新闻：** 北京大学开源项目：open-sora-plan: <https://github.com/PKU-YuanGroup/Open-Sora-Plan?tab=readme-ov-file>
 
 ------
 
