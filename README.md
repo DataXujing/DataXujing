@@ -16,6 +16,7 @@
 - :fire: YOLACT TensorRT API实现: <https://github.com/DataXujing/yolact_tensorrt_api>
 - :fire: ncnn_android_yolov6: <https://github.com/DataXujing/ncnn_android_yolov6>
 - :fire: ncnn_android_yolov8: <https://github.com/DataXujing/ncnn_android_yolov8>
+- :fire: ncnn_android_yolov9: <https://github.com/DataXujing/ncnn_android_yolov9>
 - :fire: Mask RCNN TensorRT: <https://github.com/DataXujing/Mask-RCNN-TensorRT>
 - :fire: 智能防疫四足机器狗SpotM2: <https://github.com/DataXujing/SpotM2-Jetson>
 - :fire: rase-weather-chit:<https://github.com/DataXujing/rasa-weather-chit>
