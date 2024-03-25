@@ -21,6 +21,7 @@
 - :fire: 智能防疫四足机器狗SpotM2: <https://github.com/DataXujing/SpotM2-Jetson>
 - :fire: rase-weather-chit:<https://github.com/DataXujing/rasa-weather-chit>
 - :fire: TensorRT-LLM-ChatGLM3: <https://github.com/DataXujing/TensorRT-LLM-ChatGLM3>
+- :fire: 大模型驱动的虚拟主播实现:<https://github.com/DataXujing/LLM-virtual-bilibilier.git>
  
 ------
 - :fire: YOLO v5 tutorial: <https://github.com/DataXujing/YOLO-v5>
@@ -31,8 +32,6 @@
 - :fire: YOLOv7 tutorial: <https://github.com/DataXujing/YOLOv7>
 - :fire: YOLOv8 tutorial: <https://github.com/DataXujing/YOLOv8>
 - :fire: YOLOv9 tutorial: <https://github.com/DataXujing/YOLOv9>
-- 
-**新闻：** 北京大学开源项目：open-sora-plan: <https://github.com/PKU-YuanGroup/Open-Sora-Plan?tab=readme-ov-file>
 
 ------
 
