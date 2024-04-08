@@ -20,8 +20,6 @@
 - :fire: Mask RCNN TensorRT: <https://github.com/DataXujing/Mask-RCNN-TensorRT>
 - :fire: 智能防疫四足机器狗SpotM2: <https://github.com/DataXujing/SpotM2-Jetson>
 - :fire: rase-weather-chit:<https://github.com/DataXujing/rasa-weather-chit>
-- :fire: TensorRT-LLM-ChatGLM3: <https://github.com/DataXujing/TensorRT-LLM-ChatGLM3>
-- :fire: 大模型驱动的虚拟主播实现:<https://github.com/DataXujing/LLM-virtual-bilibilier.git>
  
 ------
 - :fire: YOLO v5 tutorial: <https://github.com/DataXujing/YOLO-v5>
@@ -41,6 +39,12 @@
 
 ------
 - 部分比赛获奖开源项目请参考： <https://github.com/TRT2022>
+
+------
+- :fire: TensorRT-LLM-ChatGLM3: <https://github.com/DataXujing/TensorRT-LLM-ChatGLM3>
+- :fire: 大模型驱动的虚拟主播实现:<https://github.com/DataXujing/LLM-virtual-bilibilier.git>
+- :fire: 大模型安卓部署教程：<https://github.com/DataXujing/Qwen1.5-0.5b-chat-android>
+
 
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=DataXujing&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" /> -->
