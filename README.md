@@ -30,6 +30,7 @@
 - :fire: YOLOv7 tutorial: <https://github.com/DataXujing/YOLOv7>
 - :fire: YOLOv8 tutorial: <https://github.com/DataXujing/YOLOv8>
 - :fire: YOLOv9 tutorial: <https://github.com/DataXujing/YOLOv9>
+- YOLOV10 来了！
 
 ------
 
