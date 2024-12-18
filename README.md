@@ -46,6 +46,7 @@
 - :fire: TensorRT-LLM-ChatGLM3: <https://github.com/DataXujing/TensorRT-LLM-ChatGLM3>
 - :fire: 大模型驱动的虚拟主播实现:<https://github.com/DataXujing/LLM-virtual-bilibilier.git>
 - :fire: 大模型安卓部署教程：<https://github.com/DataXujing/Qwen1.5-0.5b-chat-android>
+- :fire: 大模型安卓部署教程2: <https://dataxujing.github.io/Qwen2-0.5B-Android/mnn_qt_llm_slide.html>
 
 
 
