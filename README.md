@@ -31,7 +31,7 @@
 - :fire: YOLOv8 tutorial: <https://github.com/DataXujing/YOLOv8>
 - :fire: YOLOv9 tutorial: <https://github.com/DataXujing/YOLOv9>
 - :fire: Co-DETR TensorRT： <https://github.com/DataXujing/Co-DETR-TensorRT>
-- YOLOV12： <https://github.com/sunsmarterjie/yolov12>  来了！
+- :fire: YOLOv12 TensorRT: <https://github.com/DataXujing/YOLOv12-TensorRT>
 
 ------
 
