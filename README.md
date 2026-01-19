@@ -32,6 +32,7 @@
 - :fire: YOLOv9 tutorial: <https://github.com/DataXujing/YOLOv9>
 - :fire: Co-DETR TensorRT： <https://github.com/DataXujing/Co-DETR-TensorRT>
 - :fire: YOLOv12 TensorRT: <https://github.com/DataXujing/YOLOv12-TensorRT>
+- :fire: YOLO26 TensorRT: <https://github.com/DataXujing/YOLO26-TensorRT>
 
 ------
 
